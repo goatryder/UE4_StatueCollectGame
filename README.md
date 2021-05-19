@@ -1,0 +1,1 @@
+Statue collect game
